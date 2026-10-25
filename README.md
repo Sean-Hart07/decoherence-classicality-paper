@@ -1,10 +1,11 @@
 # decoherence-classicality-paper
 # Sean Hart, Spring 2026
-# Title: Decoherence and the Emergence of Classicality: Appearance Without Ontological
-Resolution
-# Keywords: Quantum Decoherence, Density Matrix, Open Quantum Systems, Pointer States,
-Entanglement, Measurement Problem, Quantum-to-Classical Transition
-# Abstract: Decoherence has emerged as the leading framework for explaining the appearance of
+# Title: 
+Decoherence and the Emergence of Classicality: Appearance Without Ontological Resolution
+# Keywords: 
+Quantum Decoherence, Density Matrix, Open Quantum Systems, Pointer States, Entanglement, Measurement Problem, Quantum-to-Classical Transition
+# Abstract: 
+Decoherence has emerged as the leading framework for explaining the appearance of
 classicality in quantum systems without modifying unitary quantum mechanics. This paper
 evaluates whether decoherence alone provides a sufficient account of the quantum-to-classical
 transition. The analysis covers environmental entanglement, the reduced density matrix
